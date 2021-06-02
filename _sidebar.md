@@ -1,1 +1,1 @@
-* [netty](docks/netty)
+* [netty](docs/netty)
